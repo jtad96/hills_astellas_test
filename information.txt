@@ -1,3 +1,7 @@
 Please put in your name and your email address
 Johnny Chen, Johnny.Chen@sdggroup.com
+<<<<<<< Updated upstream
 Gautami Mudada, gautami.mundada@sdggroup.com
+=======
+Joyce Ding Joyce.ding@sdggruop.com
+>>>>>>> Stashed changes
